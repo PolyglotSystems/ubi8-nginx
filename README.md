@@ -16,7 +16,8 @@ docker pull quay.io/polyglotsystems/ubi8-nginx:latest
 
 ## Tags
 
-- `main`, `:latest`, `:1.8`, `:1.8.0`, `:v1.8`, `:v1.8.0`
+- `main`, `:latest`, `:1.18`, `:1.18.0`, `:v1.18`, `:v1.18.0`
+- `main`, `:latest`, `:1.20`, `:1.20.0`, `:v1.20`, `:v1.20.0`
 
 ## Using this Container as a Base
 
