@@ -1,7 +1,7 @@
 FROM registry.access.redhat.com/ubi8/ubi:latest as BUILDER
 
 # Setup Default Args
-ARG NGINX_VERSION=1.18
+ARG NGINX_VERSION=1.20
 ARG SOURCE_NAME
 
 USER root
